@@ -1,0 +1,17 @@
+video::-webkit-media-controls-volume-slider {
+display:none;
+}
+
+video::-webkit-media-controls-mute-button {
+display:none;
+}
+
+audio {
+border-radius: 0.5em;
+position:absolute;
+bottom:400px;
+left:180px;
+right:250px"
+}
+
+
