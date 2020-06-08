@@ -1,12 +1,9 @@
 audio {
 border-radius: 0.5em;
-position:absolute;
+position:fixed;
 bottom:400px;
-left:270px;
-right:270px;
-width:100px;
-height:100px;
-}
+left:300px;
+right:300px;}
 
 
 .background {
