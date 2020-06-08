@@ -1,11 +1,11 @@
 audio {
 border-radius: 0.5em;
 position:fixed;
-width:100%;
-min-width:200px;
+width:80%;
+left:100px;
+min-width:100px;
 bottom:500px;
-left:400px;
-right:300px;}
+}
 
 
   audio::-webkit-media-controls-timeline {
