@@ -2,8 +2,10 @@ audio {
 border-radius: 0.5em;
 position:absolute;
 bottom:400px;
-left:250px;
-right:250px;
+left:270px;
+right:270px;
+width:100px;
+height:100px;
 }
 
 
